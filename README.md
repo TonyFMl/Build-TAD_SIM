@@ -14,6 +14,8 @@ https://github.com/TonyFMl/Build-TAD_SIM.git
 ```
 ## 2、开始编译
 ```bash
+cd Build-TAD_SIM/
+
 ./build.sh
 ```
 * 编译持续时间较长，编译过程日志可查看TAD_Sim/log.txt
